@@ -1,8 +1,8 @@
 # Shubham Gulati's Résumé
 
-* [Website](http://new.gulati.sh/resume/)
-
 * [Résumé](ShubhamGulati_Resume.pdf)
+
+<!-- * [Website](http://iamshgulati.github.io/resume/) -->
 
 <!-- # Shubham Gulati's Cover Letter -->
 
