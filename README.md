@@ -1,6 +1,6 @@
 # Shubham Gulati's Résumé
 
-* [Website](https://iamshgulati.github.io/resume)
+* [Website](http://new.gulati.sh/resume/)
 
 * [Résumé](ShubhamGulati_Resume.pdf)
 
