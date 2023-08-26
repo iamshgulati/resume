@@ -1,11 +1,6 @@
 # Shubham Gulati's Resume
 
 * [Resume](https://iamshgulati.github.io/resume/)
-
-<div>
-<a href="ShubhamGulati_Resume.pdf" Content-Disposition: inline;filename="ShubhamGulati_Resume.pdf">View Resume</a>
-</div>
-
 <!-- * [Cover Letter](https://github.com/shubhamgulati91/resume/raw/main/ShubhamGulati_Cover_Letter.pdf) -->
 
 <!-- ## Résumé Preview
